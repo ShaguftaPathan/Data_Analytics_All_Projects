@@ -17,14 +17,14 @@ Welcome to my analytics portfolio! Below are selected real-world projects develo
   * Tools: Python, VADER, Pandas, Matplotlib
   * Impact: Enabled deeper understanding of customer sentiment and service experience.
 
-  * <a href="https://shaguftapathan.github.io/Pyhton-NLP_Sentiment_Analysis/">View Project!</a>
+  * <a href="https://shaguftapathan.github.io/Pyhton-NLP_Sentiment_Analysis/">View Project</a>
 
 # Project: 3 - Customer Segmentation (RFM Analysis) using Python
   * Description: Performed RFM-based segmentation to group customers by behavioral patterns.
   * Tools: Python, Pandas, Seaborn
   * Impact: Supported targeted campaigns and improved personalized marketing strategies.
   
-  * <a href="https://shaguftapathan.github.io/Python-RFM_Customer_Segmentation/">View Project!</a>
+  * <a href="https://shaguftapathan.github.io/Python-RFM_Customer_Segmentation/">View Project</a>
 
 # Project: 4 - Tableau Sales Dashboard (2023)
   * Description: Created an interactive dashboard to compare 2023 KPIs against 2022 benchmarks.
