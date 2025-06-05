@@ -1,7 +1,7 @@
 # Data_Analytics_All_Projects
-Access my all projects here.
+<a href="https://shaguftapathan.github.io/Data_Analytics_All_Projects/">View All Projects</a>
 
-Welcome to my analytics portfolio! Below are selected real-world projects developed using Python, Power BI, and Tableau for clients across e-commerce, healthcare, and business intelligence.
+Welcome to my analytics portfolio! Below are selected real-world projects developed using Python, Power BI, Excel and Tableau for clients across e-commerce, healthcare, and business intelligence.
 
 
 # Project:1 Power BI Dashboard – CCTV E-Commerce Client
