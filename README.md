@@ -33,3 +33,8 @@ Welcome to my analytics portfolio! Below are selected real-world projects develo
 * Tools: Power BI, DAX  
 * Impact: Streamlined healthcare operations and data-driven evaluations.  
 <a href="https://shaguftapathan.github.io/PowerBI_Dashboard_Healthcare_Client/">View Project</a>
+
+<span style="color:#4a89c2; font-size: 22px;"><b>Project 6: Dynamic Streamlit App</b></span> 
+* Built a real-time interactive dashboard using Streamlit and Plotly to visualize key financial and operational KPIs.
+* Integrated dynamic data preview toggles, monthly budget vs forecast charts, and yearly account-based performance breakdown.
+<a href="https://shaguftapathan.github.io/Streamlit_Apps/">View Project</a>
