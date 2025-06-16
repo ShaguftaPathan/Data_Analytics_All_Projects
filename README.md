@@ -10,23 +10,23 @@ Welcome to my analytics portfolio! Below are selected real-world projects develo
 * **Impact**: Enabled leadership to make informed decisions using interactive visuals.
   
 <a href="https://shaguftapathan.github.io/PowerBI_Dashboard_e-Commerce_Client/">View Project</a>
-![](https://github.com/ShaguftaPathan/Data_Analytics_All_Projects/blob/main/Dashboards/cctv-1.png)
+![](/Dashboards/cctv-1.png)
 
 <span style="color:#4a89c2; font-size: 22px;"><b>Project 2: Exploaratoy Data ANalysis (EDA) for Logistics & Shipments Delay -Python</b></span>
-* **Description: Performed EDA and delay classification on shipment records to uncover trends in logistics delays.
-* **Tools: Python, Pandas, Seaborn, Scikit-learn
-* **Impact: Identified delay-prone regions, reduced SLA breach risks, and supported delivery time optimization strategies.
+* **Description**: Performed EDA and delay classification on shipment records to uncover trends in logistics delays.
+* **Tools**: Python, Pandas, Seaborn, Scikit-learn
+* **Impact**: Identified delay-prone regions, reduced SLA breach risks, and supported delivery time optimization strategies.
 
 <a href="https://shaguftapathan.github.io/Python_Logistics_Delay_Analysis/">View Project</a>
-![](https://github.com/ShaguftaPathan/Data_Analytics_All_Projects/blob/main/Dashboards/Python_EDA.png)
+![](/Dashboards/Python_EDA.png)
 
 <span style="color:#4a89c2; font-size: 22px;"><b>Project 3: Logistics, Shipments & Returns Analysis- Customer, Performance & Operation Metrics - Power BI Analysis</b></span>
-* **Description: Analyzed 15,000+ shipments across regions, shipment modes, and carriers to uncover delay trends, SLA breach rates, returns, and cost-to-revenue insights.
-* **Tools: Power BI, Power Query, DAX, Python (RFM & EDA)
-* **Impact: Helped logistics stakeholders improve on-time delivery by 12%, reduce returns, and enhance customer satisfaction.
+* **Description**: Analyzed 15,000+ shipments across regions, shipment modes, and carriers to uncover delay trends, SLA breach rates, returns, and cost-to-revenue insights.
+* **Tools**: Power BI, Power Query, DAX, Python (RFM & EDA)
+* **Impact**: Helped logistics stakeholders improve on-time delivery by 12%, reduce returns, and enhance customer satisfaction.
 
 <a href="https://shaguftapathan.github.io/PowerBI_Logistics_Dashboard/">View Dashboard</a>
-![](https://github.com/ShaguftaPathan/Data_Analytics_All_Projects/blob/main/Dashboards/log_1.png)
+![](/Dashboards/log_1.png)
 
 <span style="color:#4a89c2; font-size: 22px;"><b>Project 4:Real Estate Sales Analysis - Power BI</b></span>  
 * **Description**: Designed an end-to-end real estate sales performance dashboard to track key metrics including revenue, gross profit, agent productivity, and regional performance. The dashboard visualized the entire sales funnel—from leads to closed deals—across major U.S. cities.  
@@ -34,23 +34,23 @@ Welcome to my analytics portfolio! Below are selected real-world projects develo
 * **Impact**: Empowered leadership to identify top-performing agents, monitor sales trends, and optimize regional strategies. Enhanced decision-making through real-time visual analytics and YOY growth comparison.
 
 <a href="https://shaguftapathan.github.io/PowerBI_Dashboard_Real_Estate/">View Project</a>
-![](https://github.com/ShaguftaPathan/Data_Analytics_All_Projects/blob/main/Dashboards/real_est_1.png)
+![](/Dashboards/real_est_1.png)
 
 <span style="color:#4a89c2; font-size: 22px;"><b>Project 5: Customer Behavior Analysis using Python (Sentiment Analysis + RFM Segmentation)</b></span>
-* **Description: Unified sentiment classification and RFM-based segmentation to gain a 360° view of customer behavior — what they feel and how they act.
-* **Tools: Python, VADER, Pandas, Seaborn, Scikit-learn, Matplotlib
-* **Impact: Enabled personalized marketing, identified pain points in delivery, and helped re-engage lapsed customers based on emotion and transaction patterns.
+* **Description**: Unified sentiment classification and RFM-based segmentation to gain a 360° view of customer behavior — what they feel and how they act.
+* **Tools**: Python, VADER, Pandas, Seaborn, Scikit-learn, Matplotlib
+* **Impact**: Enabled personalized marketing, identified pain points in delivery, and helped re-engage lapsed customers based on emotion and transaction patterns.
 
 <a href="https://shaguftapathan.github.io/Pyhton_Sentiment_Analyis_Cust_Segmentation/">View Project</a>
-![](https://github.com/ShaguftaPathan/Data_Analytics_All_Projects/blob/main/Dashboards/Python_CS_SA.png)
+![](/Dashboards/Python_CS_SA.png)
 
 <span style="color:#4a89c2; font-size: 22px;"><b>Project 6: Patient & Performance Analysis - Power BI</b></span>  
-* Description: Developed a dashboard to monitor patient metrics, employee performance, and insurance claim trends.  
-* Tools: Power BI, DAX  
-* Impact: Streamlined healthcare operations and data-driven evaluations.
+* Description**: Developed a dashboard to monitor patient metrics, employee performance, and insurance claim trends.  
+* Tools**: Power BI, DAX  
+* Impact**: Streamlined healthcare operations and data-driven evaluations.
   
 <a href="https://shaguftapathan.github.io/PowerBI_Dashboard_Healthcare_Client/">View Project</a>
-![](https://github.com/ShaguftaPathan/Data_Analytics_All_Projects/blob/main/Dashboards/E-motion-1.png)
+![](/Dashboards/E-motion-1.png)
 
 <span style="color:#4a89c2; font-size: 22px;"><b>Project 7: Supply Chain Sales Analysis - Tableau (2023)</b></span>  
 * Description: Created an interactive dashboard to compare 2023 KPIs against 2022 benchmarks.  
@@ -58,14 +58,14 @@ Welcome to my analytics portfolio! Below are selected real-world projects develo
 * Impact: Provided insights into sales, profit, and customer growth trends for strategic planning.
 
 <a href="https://shaguftapathan.github.io/Tableau_Sales_Dashboard_Retail-Supply_Chain/">View Project</a>
-![](https://github.com/ShaguftaPathan/Data_Analytics_All_Projects/blob/main/Dashboards/Sales_tableu.png)
+![](/Dashboards/Sales_tableu.png)
 
 <span style="color:#4a89c2; font-size: 22px;"><b>Project 8: Dynamic Streamlit App - Python</b></span> 
 * Built a real-time interactive dashboard using Streamlit and Plotly to visualize key financial and operational KPIs.
 * Integrated dynamic data preview toggles, monthly budget vs forecast charts, and yearly account-based performance breakdown.
   
 <a href="https://shaguftapathan.github.io/Streamlit_Apps/">View Project</a>
-![](https://github.com/ShaguftaPathan/Data_Analytics_All_Projects/blob/main/Dashboards/streamlit.png)
+![](/Dashboards/streamlit.png)
 
 
 
