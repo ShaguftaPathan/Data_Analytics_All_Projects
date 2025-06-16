@@ -12,7 +12,7 @@ Welcome to my analytics portfolio! Below are selected real-world projects develo
 <a href="https://shaguftapathan.github.io/PowerBI_Dashboard_e-Commerce_Client/">View Project</a>
 ![](/Dashboards/cctv-1.png)
 
-<span style="color:#4a89c2; font-size: 22px;"><b>Project 2: Exploaratoy Data ANalysis (EDA) for Logistics & Shipments Delay -Python</b></span>
+<span style="color:#4a89c2; font-size: 22px;"><b>Project 2: Exploaratoy Data Analysis (EDA) for Logistics & Shipments Delay -Python</b></span>
 * **Description**: Performed EDA and delay classification on shipment records to uncover trends in logistics delays.
 * **Tools**: Python, Pandas, Seaborn, Scikit-learn
 * **Impact**: Identified delay-prone regions, reduced SLA breach risks, and supported delivery time optimization strategies.
@@ -52,7 +52,7 @@ Welcome to my analytics portfolio! Below are selected real-world projects develo
 <a href="https://shaguftapathan.github.io/PowerBI_Dashboard_Healthcare_Client/">View Project</a>
 ![](/Dashboards/E-motion-1.png)
 
-<span style="color:#4a89c2; font-size: 22px;"><b>Project 7: Supply Chain Sales Analysis - Tableau (2023)</b></span>  
+<span style="color:#4a89c2; font-size: 22px;"><b>Project 7: Supply Chain Sales Analysis - Tableau </b></span>  
 * **Description**: Created an interactive dashboard to compare 2023 KPIs against 2022 benchmarks.  
 * **Tools**: Tableau  
 * **Impact**: Provided insights into sales, profit, and customer growth trends for strategic planning.
