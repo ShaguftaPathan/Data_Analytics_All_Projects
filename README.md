@@ -4,7 +4,7 @@
 
 Welcome to my analytics portfolio! Below are selected real-world projects developed using Python, Power BI, Excel and Tableau for clients across e-commerce, healthcare, and business intelligence.
 
-<span style="color:#4a89c2; font-size: 22px;"><b>Project 1:E-commerce Data Analysis - Power BI</b></span>  
+<span style="color:#4a89c2; font-size: 22px;"><b>Project 1: E-commerce Data Analysis - Power BI</b></span>  
 * **Description**: Tracked KPIs across sales, inventory, and customer service.  
 * **Tools**: Power BI, DAX  
 * **Impact**: Enabled leadership to make informed decisions using interactive visuals.
@@ -28,7 +28,7 @@ Welcome to my analytics portfolio! Below are selected real-world projects develo
 <a href="https://shaguftapathan.github.io/PowerBI_Logistics_Dashboard/">View Dashboard</a>
 ![](/Dashboards/log_1.png)
 
-<span style="color:#4a89c2; font-size: 22px;"><b>Project 4:Real Estate Sales Analysis - Power BI</b></span>  
+<span style="color:#4a89c2; font-size: 22px;"><b>Project 4: Real Estate Sales Analysis - Power BI</b></span>  
 * **Description**: Designed an end-to-end real estate sales performance dashboard to track key metrics including revenue, gross profit, agent productivity, and regional performance. The dashboard visualized the entire sales funnel—from leads to closed deals—across major U.S. cities.  
 * **Tools**: Power BI, DAX, Excel  
 * **Impact**: Empowered leadership to identify top-performing agents, monitor sales trends, and optimize regional strategies. Enhanced decision-making through real-time visual analytics and YOY growth comparison.
