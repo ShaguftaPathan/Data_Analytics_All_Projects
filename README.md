@@ -42,6 +42,7 @@ Welcome to my analytics portfolio! Below are selected real-world projects develo
 * **Impact**: Enabled personalized marketing, identified pain points in delivery, and helped re-engage lapsed customers based on emotion and transaction patterns.
 
 <a href="https://shaguftapathan.github.io/Pyhton_Sentiment_Analyis_Cust_Segmentation/">View Project</a>
+
 ![](/Dashboards/Python_CS_SA.png)
 
 <span style="color:#4a89c2; font-size: 22px;"><b>Project 6: Patient & Performance Analysis - Power BI</b></span>  
