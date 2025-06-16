@@ -20,7 +20,7 @@ Welcome to my analytics portfolio! Below are selected real-world projects develo
 <a href="https://shaguftapathan.github.io/Pyhton_EDA_Logistics_Shipments_Return//">View Project</a>
 ![](/Dashboards/Python_EDA.png)
 
-<span style="color:#4a89c2; font-size: 22px;"><b>Project 3: Logistics, Shipments & Returns Analysis- Customer, Performance & Operation Metrics - Power BI Analysis</b></span>
+<span style="color:#4a89c2; font-size: 22px;"><b>Project 3: Logistics, Shipments & Returns Analysis- Customer, Performance & Operation Metrics Analysis - Power BI</b></span>
 * **Description**: Analyzed 15,000+ shipments across regions, shipment modes, and carriers to uncover delay trends, SLA breach rates, returns, and cost-to-revenue insights.
 * **Tools**: Power BI, Power Query, DAX, Python (RFM & EDA)
 * **Impact**: Helped logistics stakeholders improve on-time delivery by 12%, reduce returns, and enhance customer satisfaction.
