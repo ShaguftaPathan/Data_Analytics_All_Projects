@@ -45,17 +45,17 @@ Welcome to my analytics portfolio! Below are selected real-world projects develo
 ![](/Dashboards/Python_CS_SA.png)
 
 <span style="color:#4a89c2; font-size: 22px;"><b>Project 6: Patient & Performance Analysis - Power BI</b></span>  
-* Description**: Developed a dashboard to monitor patient metrics, employee performance, and insurance claim trends.  
-* Tools**: Power BI, DAX  
-* Impact**: Streamlined healthcare operations and data-driven evaluations.
+* **Description**: Developed a dashboard to monitor patient metrics, employee performance, and insurance claim trends.  
+* **Tools**: Power BI, DAX  
+* **Impact**: Streamlined healthcare operations and data-driven evaluations.
   
 <a href="https://shaguftapathan.github.io/PowerBI_Dashboard_Healthcare_Client/">View Project</a>
 ![](/Dashboards/E-motion-1.png)
 
 <span style="color:#4a89c2; font-size: 22px;"><b>Project 7: Supply Chain Sales Analysis - Tableau (2023)</b></span>  
-* Description: Created an interactive dashboard to compare 2023 KPIs against 2022 benchmarks.  
-* Tools: Tableau  
-* Impact: Provided insights into sales, profit, and customer growth trends for strategic planning.
+* **Description**: Created an interactive dashboard to compare 2023 KPIs against 2022 benchmarks.  
+* **Tools**: Tableau  
+* **Impact**: Provided insights into sales, profit, and customer growth trends for strategic planning.
 
 <a href="https://shaguftapathan.github.io/Tableau_Sales_Dashboard_Retail-Supply_Chain/">View Project</a>
 ![](/Dashboards/Sales_tableu.png)
