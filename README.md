@@ -17,7 +17,7 @@ Welcome to my analytics portfolio! Below are selected real-world projects develo
 * **Tools**: Python, Pandas, Seaborn, Scikit-learn
 * **Impact**: Identified delay-prone regions, reduced SLA breach risks, and supported delivery time optimization strategies.
 
-<a href="https://shaguftapathan.github.io/Python_Logistics_Delay_Analysis/">View Project</a>
+<a href="https://shaguftapathan.github.io/Pyhton_EDA_Logistics_Shipments_Return//">View Project</a>
 ![](/Dashboards/Python_EDA.png)
 
 <span style="color:#4a89c2; font-size: 22px;"><b>Project 3: Logistics, Shipments & Returns Analysis- Customer, Performance & Operation Metrics - Power BI Analysis</b></span>
